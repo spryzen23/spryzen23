@@ -149,7 +149,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-⚔️%20Active-FFA116?style=for-the-badge&labelColor=0d1117)
 ![Streak](https://img.shields.io/badge/Coding-🔥%20Daily-7C3AED?style=for-the-badge&labelColor=0d1117)
 ![Stack](https://img.shields.io/badge/Stack-🧠%20Full%20Stack-C084FC?style=for-the-badge&labelColor=0d1117)
-![Domain](https://img.shields.io/badge/Domain-📊%20Data%20Science-5B21B6?style=for-the-badge&labelColor=0d1117)
+![Domain](https://img.shields.io/badge/Domain-💻%20Backend%20Engineer-5B21B6?style=for-the-badge&labelColor=0d1117)
 ![Open Source](https://img.shields.io/badge/Open%20Source-❤️%20Lover-E879F9?style=for-the-badge&labelColor=0d1117)
 
 </div>
