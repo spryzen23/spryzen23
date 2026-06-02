@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%7C+Data+Science+%F0%9F%A7%A0;React+%E2%9A%9B%EF%B8%8F+%7C+Java+%F0%9F%90%8D+%7C+Full-Stack+Dev;Turning+Raw+Data+into+Real+Stories+%F0%9F%93%8A;Building+Beautiful+%26+Functional+UIs+%F0%9F%8E%A8;Code+%2B+Creativity+%3D+My+Happy+Place+%F0%9F%92%99"  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%7C+Software+Engineering+%F0%9F%A7%A0;React+%E2%9A%9B%EF%B8%8F+%7C+Java+%F0%9F%90%8D+%7C+Flutter+%F0%9F%90%A6+%7C+Full-Stack+Dev;Turning+Imagination+into+Real+Applications+%F0%9F%93%8A;Building+Beautiful+%26+Functional+UIs+%F0%9F%8E%A8;Code+%2B+Creativity+%3D+My+Happy+Place+%F0%9F%92%99"  alt="Typing SVG" />
 </a>
 
 <br><br>
